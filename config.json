@@ -1,0 +1,26 @@
+{
+    "exitKey":"end",
+
+    "tR":0.8,
+    "tG":0.4,
+    "tB":0,
+    "tA":1,
+
+    "ctR":0,
+    "ctG":0.4,
+    "ctB":0.8,
+    "ctA":1,
+
+    
+    "fovInt":120,
+    "triggerbotDelay":0.15,
+
+    "wallhack":1,
+    "triggerbot":1,
+    "bhop":1,
+    "radarhack":1,
+    "fov":1,
+    "fovOption":1,
+    "noflash":1
+
+}
