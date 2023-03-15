@@ -1,4 +1,4 @@
-# Made by Cedric#0591
+# Made by Cedric#0591 (followed tutorials lol: https://www.youtube.com/@EthanEDITS1/videos)
 
 """
 Create a config.json file in the same directory as this file, that looks like the following:
